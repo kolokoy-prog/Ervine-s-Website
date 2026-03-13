@@ -1,0 +1,107 @@
+.uber {
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    border-radius: 0;
+    border-style: solid;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+ }
+
+ .uber:hover {
+    opacity: 0.7;
+ }
+
+ .uber:active {
+    
+    background-color: red;
+    transition: 0.15s;
+ }
+
+ .Amazon {
+    background-color: rgb(255,216,20);
+    color: black;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    
+ }
+
+ .GitHub {
+    background-color: rgb(46,164,79);
+    color: white;
+    font-size: 12px;
+    border: none;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+ }
+
+ .Bootstrap1 {
+    background-color: rgb(121,82,179);
+    color: white;
+    font-size: 8px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+ }
+
+.Bootstrap2 {
+    background-color: rgb(144, 151, 158);
+    color: rgba(41, 38, 38, 0.927);
+    font-size: 8px;
+    border: none;
+    border-radius: 1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+.linkedln1 {
+    background-color: rgb(10,102,194);
+    color: white;
+    font-weight: bold;
+    font-size: 6px;
+    border: none;
+    border-radius: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.linkedln2 {
+    background-color: white;
+    color: rgb(10,102,194);
+    font-size: 6px;
+    font-weight: bold;
+    border-color: rgb(10,102,194);
+    border-width: 1px;
+    border-radius: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+
+}
+
