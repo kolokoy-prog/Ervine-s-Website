@@ -1,0 +1,10 @@
+body {
+    background-image: url(images/erika.jpg);
+}
+
+.aud {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 350px;
+}
